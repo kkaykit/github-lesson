@@ -3,3 +3,5 @@
 echo "hello git"
 
 echo "hello from second line"
+
+echo "duzeltme"
